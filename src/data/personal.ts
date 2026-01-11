@@ -14,28 +14,18 @@ export interface PersonalInfo {
 }
 
 export const personalInfo: PersonalInfo = {
-  name: "Your Name",
-  title: "Your Title",
-  bio: "A brief introduction about yourself. This will appear on the home and about pages.",
+  name: "Peili Lee",
+  title: "Product Strategy & Growth Architect",
+  bio: "Hi - Here to share the different things I have my hands in!",
   socialLinks: [
     {
-      platform: "github",
-      url: "https://github.com/yourusername",
-      label: "GitHub",
-    },
-    {
       platform: "linkedin",
-      url: "https://linkedin.com/in/yourusername",
+      url: "https://www.linkedin.com/in/peili-lee/",
       label: "LinkedIn",
     },
     {
-      platform: "twitter",
-      url: "https://twitter.com/yourusername",
-      label: "Twitter",
-    },
-    {
       platform: "email",
-      url: "mailto:you@example.com",
+      url: "mailto:peili123@gmail.com",
       label: "Email",
     },
   ],
